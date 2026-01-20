@@ -636,7 +636,7 @@ Students will understand:
 
 ```bash
 # 1. Navigate to project directory
-cd c:\Users\HAMZA KHAN\Desktop\Project
+cd c:\Users\Desktop\Project
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -820,6 +820,7 @@ Interpretation:
 
 ### Clone or download the repository:
 ```bash
-git clone https://github.com/hamza-khan542/Parallel_Image_Processing.git
+git clone https://github.com/PawanMahesh-V/Parallel_Image_Processing.git
 cd Parallel_Image_Processing
 #
+
