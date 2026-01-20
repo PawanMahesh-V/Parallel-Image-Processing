@@ -14,11 +14,11 @@ This project fulfills the requirements for a 4-month coursework assignment focus
 - **Month 4 (Final)**: Implement multiple filters, add UI, benchmark performance, and identify scalability limits
 
 ### 1.4 Group Members
-- Hamza Ahmed Khan (2212341)
-- Sibtain Ahmed (2212271)
-- Munesh Kumar (2212260)
-- Pawan Mahesh (2212263)
-- Ahmed Ali Khokhar (2212243)
+- Hamza Ahmed Khan 
+- Sibtain Ahmed 
+- Munesh Kumar 
+- Pawan Mahesh 
+- Ahmed Ali Khokhar
 
 ---
 
@@ -816,3 +816,5 @@ Interpretation:
 ```bash
 git clone https://github.com/hamza-khan542/Parallel_Image_Processing.git
 cd Parallel_Image_Processing
+#   P a r a l l e l - I m a g e - P r o c e s s i n g  
+ 
